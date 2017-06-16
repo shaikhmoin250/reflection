@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+Ans) -- and ++ sign help us to see the diff between two modified file (--) show the there is nothing added into ols and ++ show the there is added into that file
+
+   
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+Ans) having  history is always helpfull as its having all records when action has performed what wast the last action and from where to start current action 
+it  also gives the records of time date and name of the person 
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+Ans) without commit in git changes can not made its pros is that  
+   
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+Ans) 
+
+How can you use the commands git log and git diff to view the history of files?
+
+ Ans) git diff  command only show the line added and discarded nut git log command shows the whole discrition along with time and name 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
