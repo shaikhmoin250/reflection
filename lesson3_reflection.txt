@@ -1,0 +1,28 @@
+When would you want to use a remote repository rather than keeping all your work
+local?
+Ans) whenever i nedd that waht directory  i have made shoul be visible to my client or co-worker  then i will remote it on git hub so that somehow they also get adv of it 
+remote also will save the file  whenever i need changes ill directly reach there and change the data 
+
+Q) Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+Ans) pulling changes ,anually difinitly  help me as its own me whether i want to pull or not but if its automatically then will done by itself 
+
+Q)Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+Ans)
+   
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+    Fill in your answer here
+
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+
+    Fill in your answer here
+
+When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
+
+    Fill in your answer here
